@@ -1,6 +1,7 @@
 Diabetes Prevalence and Risk Factor Analysis
 
-Project OverviewThis project analyzes a diabetes screening dataset of 253,680 participants to investigate prevalence rates and risk factors like BMI and smoking1.
+Project Overview
+This project analyzes a diabetes screening dataset of 253,680 participants to investigate prevalence rates and risk factors like BMI and smoking1.
 
 Key Findings
 * Rising Prevalence: Diabetes prevalence increased from a 14% benchmark to 15.76%.
